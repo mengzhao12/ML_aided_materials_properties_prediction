@@ -1,0 +1,2 @@
+# ML_aided_materials_properties_prediction
+Predicting the Key Properties of Novel Transparent Semiconductors
