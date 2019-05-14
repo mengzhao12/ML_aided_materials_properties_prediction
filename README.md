@@ -10,7 +10,7 @@ This project is to accurately predict two chemical properties: formation energy 
 
 ### Machine learning Predicted Summary:
 
-<a href="url"><img src="./figures/ML_predicted_summary.png" align="left" height="500"></a>
+<a href="url"><img src="./figures/ML_predicted_summary.png" align="left"></a>
 
 ### Benchmarking Three Machine learning Algorithms:
 
