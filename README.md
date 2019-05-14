@@ -6,9 +6,12 @@ This project is to accurately predict two chemical properties: formation energy 
 
 ## Selective Key Results
 
-### Machine learning Design of Experiments:
+<div>
 
-<a href="url"><img src="./figures/ML_DOE_summary.png" align="left" ></a>
+### Machine learning Design of Experiments:
+<a href="url"><img src="./figures/ML_DOE_summary.png" align="left" height = "300" ></a>
+
+</div>
 
 ### Machine learning Predicted Summary:
 
