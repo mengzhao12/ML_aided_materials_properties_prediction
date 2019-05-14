@@ -6,7 +6,7 @@ This project is to accurately predict two chemical properties: formation energy 
 
 ### Machine learning Design of Experiments:
 
-![alt text](./figures/ML_DOE_summary.tiff)
+![alt text](./figures/ML_DOE_summary.png)
 
 ### Machine learning Design of Experiments:
 
