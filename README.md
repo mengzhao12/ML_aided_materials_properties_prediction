@@ -1,4 +1,4 @@
-# Machine learning aided approach to predict materials chemcial properties
+# Machine learning aided approach to predict materials chemical properties
 
 ## Objective: Accurately Predict the Key Chemical Properties of Crystalline Materials
  
