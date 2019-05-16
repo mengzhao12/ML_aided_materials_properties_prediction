@@ -6,30 +6,19 @@ This project is to accurately predict two chemical properties: formation energy 
 
 ## Selective Key Results
 
-<div title= "ML DOE">
-
 ### Machine learning Design of Experiments:
-<a href="url"><img src="./figures/ML_DOE_summary.png" align="left" height = "300" ></a>
+<p align="center">
+  <img src="./figures/ML_DOE_summary.png" align="left" width = "100%" >
+</p>
 
-</div>
-
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-
-<div title= "ML pred">
  
 ### Machine learning Predicted Summary:
-
-<a href="url"><img src="./figures/ML_predicted_summary.png" align="left" height = "500"></a>
-</div>
-
-
-<div title= "ML benchmark">
+<p align="center">
+  <img src="./figures/ML_predicted_summary.png" align="left" width = "100%" >
+</p>
 
 ### Benchmarking Three Machine learning Algorithms:
+<p align="center">
+  <img src="./figures/ML_benchmark_summary.png" align="left" width = "100%" >
+</p>
 
-<a href="url"><img src="./figures/ML_benchmark_summary.png" align="left" height="300"></a>
-
-</div>
